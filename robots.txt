@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://edavalosanaya.github.io/edavalosanaya/sitemap.xml
+Sitemap: https://edavalosanaya.github.io//sitemap.xml
